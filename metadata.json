@@ -1,0 +1,6 @@
+{
+  "name": "YouTube SEO & URL Analytics Optimizer",
+  "description": "Analyze YouTube URLs and channels. Get automated transcript summaries, key highlights, sentiment analysis, and keyword extractions. Suggest SEO-optimized titles, tags, and descriptions with one-click implementation or copy controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
